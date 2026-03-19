@@ -1,4 +1,4 @@
-from flask import Flask, raquest, jsonify
+from flask import Flask, request, jsonify
 from datetime import datetime
 import os 
 
